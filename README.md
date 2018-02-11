@@ -1,18 +1,19 @@
-# Race it 1.0 – Unity 3D game  
-Description :-  A car racing game designed on Unity 3D engine that allows player to race 
+.# Race it 1.0 – Unity 3D game  
+Description :-  
+A car racing game designed on Unity 3D engine that allows player to race 
 with his/her car against many other cars that are run by the computer.  
 
 Design (Images and FBX models) :- 
-• A height map 
-• 3D world using the height map 
-• A Race track using unity assets 
-• Small 360 hollow tube racing arena in different places 
-• Player’s car model with floating camera, and interactive audio 
-• Rival’s car model with AI automation following the path assigned 
-• Main menu UI for the game 
-• Mini map / radar seen during runtime 
-• Audience crowd with animation 
-• Game finishing UI displaying positions of all the cars.  
+    • A height map 
+    • 3D world using the height map 
+    • A Race track using unity assets 
+    • Small 360 hollow tube racing arena in different places 
+    • Player’s car model with floating camera, and interactive audio 
+    • Rival’s car model with AI automation following the path assigned 
+    • Main menu UI for the game 
+    • Mini map / radar seen during runtime 
+    • Audience crowd with animation 
+    • Game finishing UI displaying positions of all the cars
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
@@ -37,12 +38,16 @@ Reflective water surface
 Unity includes several water Prefabs (including the necessary Shaders, scripts and art Assets) within the Standard Assets packages.
 Separate daylight and nighttime water Prefabs are provided. 
 
+![Sun] (Sun.png)
+
 Race spectators
 Very low poly audience animated cheering and applausing to use in sports games, tv show games, car games.
 with 7 different skins to combine.
 
 Animations available: Idle, Applause fast, Applause Slow, Celebration with one arm, Celebration with both arms, celebration one arm moving hole body.
 These animations are looped randomly and attached to each body using C# scripts.
+
+![Crowd] (Crown.png)
 
 Our Car
 The car model is a prefab designed either within the Unity engine or in any other designing application software like 3DS max.
@@ -60,28 +65,12 @@ more realistic.
 
 Start Menu
 
+![Start] (Start.png)
+
 Runtime player’s view
+
+![Runtime] (Runtime.png)
 
 Finish
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Finish] (Finish.png)
