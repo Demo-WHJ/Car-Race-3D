@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race It.Plugins", "Race It.Plugins.csproj", "{629A530F-F789-652D-D112-0C71C9AF8D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race It", "Race It.csproj", "{4D138006-8C3F-412A-84DA-918C6B24173F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race It.Editor", "Race It.Editor.csproj", "{6B4639E0-4D34-A351-C64A-63794DB332C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629A530F-F789-652D-D112-0C71C9AF8D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629A530F-F789-652D-D112-0C71C9AF8D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629A530F-F789-652D-D112-0C71C9AF8D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629A530F-F789-652D-D112-0C71C9AF8D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D138006-8C3F-412A-84DA-918C6B24173F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D138006-8C3F-412A-84DA-918C6B24173F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D138006-8C3F-412A-84DA-918C6B24173F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D138006-8C3F-412A-84DA-918C6B24173F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4639E0-4D34-A351-C64A-63794DB332C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4639E0-4D34-A351-C64A-63794DB332C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4639E0-4D34-A351-C64A-63794DB332C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4639E0-4D34-A351-C64A-63794DB332C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
