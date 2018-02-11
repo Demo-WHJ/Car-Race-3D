@@ -1,23 +1,21 @@
-.# Race it 1.0 – Unity 3D game  
-Description :-  
-A car racing game designed on Unity 3D engine that allows player to race 
-with his/her car against many other cars that are run by the computer.  
+# Race it 1.0 – Unity 3D game  
 
-Design (Images and FBX models) :- 
-    • A height map 
-    • 3D world using the height map 
-    • A Race track using unity assets 
-    • Small 360 hollow tube racing arena in different places 
-    • Player’s car model with floating camera, and interactive audio 
-    • Rival’s car model with AI automation following the path assigned 
-    • Main menu UI for the game 
-    • Mini map / radar seen during runtime 
-    • Audience crowd with animation 
-    • Game finishing UI displaying positions of all the cars
+## Description
+A car racing game designed on Unity 3D engine that allows player to race with his/her car against many other cars that are run by the computer.  
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
-
-Height Maps 
+## Design (Images and models) 
+    - A height map 
+    - 3D world using the height map 
+    - A Race track using unity assets 
+    - Small 360 hollow tube racing arena in different places 
+    - Player’s car model with floating camera, and interactive audio 
+    - Rival’s car model with AI automation following the path assigned 
+    - Main menu UI for the game 
+    - Mini map / radar seen during runtime 
+    - Audience crowd with animation 
+    - Game finishing UI displaying positions of all the cars
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+## Height Maps 
 In computer graphics, a heightmap or heightfield is a raster image used to store values, 
 such as surface elevation data, for display in 3D computer graphics 
 
