@@ -38,7 +38,7 @@ Reflective water surface
 - Animations available: Idle, Applause fast, Applause Slow, Celebration with one arm, Celebration with both arms, celebration one arm moving hole body.
 - These animations are looped randomly and attached to each body using C# scripts.
 
-![Crowd](Crown.png)
+![Crowd](Crowd.png)
 
 ### Our Car
 - The car model is a prefab designed either within the Unity engine or in any other designing application software like 3DS max.
